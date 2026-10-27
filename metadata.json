@@ -1,0 +1,6 @@
+{
+  "name": "RA ĐỀ KIỂM TRA AI – 3 CẤP",
+  "description": "Ứng dụng chuyên nghiệp dành cho giáo viên Việt Nam hỗ trợ tạo đề kiểm tra, ma trận đề, bản đặc tả và đáp án cho Tiểu học, THCS và THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
